@@ -115,4 +115,4 @@ If I had more time or resources, I would have focused on improving the ETL pipel
 ## Contact
 
 Please feel free to contact me if you have any questions at:
-[LinkedIn](www.linkedin.com/in/sandil-tandukar-5b1259299)
+[LinkedIn](https://www.linkedin.com/in/sandil-tandukar-5b1259299)
